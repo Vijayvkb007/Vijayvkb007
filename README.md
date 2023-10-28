@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17733
-Fork on GitHub
-5200
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Vijay Kumar B</h1>
 <h3 align="center">A budding AI developer from India ❤️❤️❤️</h3>
 
