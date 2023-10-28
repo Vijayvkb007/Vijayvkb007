@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vijay Kumar
-## A budding AI developer from India ❤️❤️❤️
+## A budding AI engineer from India ❤️❤️❤️
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayvkb007&label=Profile%20views&color=0e75b6&style=flat" alt="vijayvkb007" /> </p>
 
