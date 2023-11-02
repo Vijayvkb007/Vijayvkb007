@@ -7,4 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayvkb007&layout=donut-vertical)](https://github.com/Vijayvkb007/github-readme-stats)
 
-[pfviews](https://komarev.com/ghpvc/?username=Vijayvkb007&label=Profile%20views&color=0e75b6&style=flat)
+[![Vijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vijayvkb007&theme=dracula)](https://github.com/Vijayvkb007/github-readme-activity-graph)
