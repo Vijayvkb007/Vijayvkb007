@@ -7,4 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayvkb007&layout=donut-vertical)](https://github.com/Vijayvkb007/github-readme-stats)
 
-[![Vijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vijayvkb007&theme=dracula)](https://github.com/Vijayvkb007/github-readme-activity-graph)
+[![Vijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vijayvkb007&theme=reactdark)](https://github.com/Vijayvkb007/github-readme-activity-graph)
