@@ -1,6 +1,3 @@
-# Hi 👋, I'm Vijay Kumar
-### An AI U.G from India
-
 <div align="center">
 
 <div style="display: flex;">
@@ -8,10 +5,6 @@
   <div>  
     <p align="left">
       <img src="https://komarev.com/ghpvc/?username=vijayvkb007&label=Profile%20views&color=0e75b6&style=flat" alt="vijayvkb007" />
-    </p>
-
-    <p align="left">
-      <img src="https://avatars.githubusercontent.com/u/79037722?v=4" width="100px;" alt=""/> 
     </p>
   </div>
 
