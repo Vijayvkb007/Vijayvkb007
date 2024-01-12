@@ -5,7 +5,7 @@
 ### A little more about me:
 
 - 🎓 Pursuing BTech in Artificial Intelligence Engineering
-- 📫 Reach me: vijayvijay75507@gmail.com
+- 📫 Reach me: vijaykumarb.221ai043@nitk.edu.in
 
 
 
