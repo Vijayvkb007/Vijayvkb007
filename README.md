@@ -1,5 +1,5 @@
 # Hi there, I'm Vijay
-## I'm an AI student at NITK.
+## I'm an undergraduate in Artificial Intelligence at NITK.
 ## I'm passionate about learning and building projects in artificial intelligence, machine learning, and data science. 💻
 
 ### A little more about me:
